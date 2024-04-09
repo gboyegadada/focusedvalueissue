@@ -11,6 +11,7 @@
 		2636ED6C2BC4FF7A005C7F38 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2636ED6B2BC4FF7A005C7F38 /* ContentView.swift */; };
 		2636ED6E2BC4FF7D005C7F38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2636ED6D2BC4FF7D005C7F38 /* Assets.xcassets */; };
 		2636ED712BC4FF7D005C7F38 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2636ED702BC4FF7D005C7F38 /* Preview Assets.xcassets */; };
+		2636ED782BC5026C005C7F38 /* ExampleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2636ED772BC5026C005C7F38 /* ExampleButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2636ED6B2BC4FF7A005C7F38 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2636ED6D2BC4FF7D005C7F38 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2636ED702BC4FF7D005C7F38 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2636ED772BC5026C005C7F38 /* ExampleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2636ED692BC4FF7A005C7F38 /* FocusedValueIssueApp.swift */,
 				2636ED6B2BC4FF7A005C7F38 /* ContentView.swift */,
+				2636ED772BC5026C005C7F38 /* ExampleButton.swift */,
 				2636ED6D2BC4FF7D005C7F38 /* Assets.xcassets */,
 				2636ED6F2BC4FF7D005C7F38 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2636ED6C2BC4FF7A005C7F38 /* ContentView.swift in Sources */,
+				2636ED782BC5026C005C7F38 /* ExampleButton.swift in Sources */,
 				2636ED6A2BC4FF7A005C7F38 /* FocusedValueIssueApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
